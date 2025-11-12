@@ -36,7 +36,7 @@
         "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin" : "github:webworker01/merkle-bitcoin.git",
         "promise": "^8.0.2",
-        "randomhash": "github:TESTERT-TEST/randomx-node.git"
+        "randomhash": "github:TESTERT-TEST/randomxhash.git"
     },
     "engines": {
         "node": ">=10"
